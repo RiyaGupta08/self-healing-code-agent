@@ -92,10 +92,12 @@ Finally, the fixed code is returned to the frontend and displayed to the user.
 Below are sample screenshots demonstrating how the system processes and fixes code errors:
 
 ### Input Code
+<img width="880" height="411" alt="Screenshot 2026-04-21 114241" src="https://github.com/user-attachments/assets/d0a83e2b-f03c-4763-97b9-02a9c572359b" />
 
 
 
 ### Output Code
+<img width="889" height="322" alt="Screenshot 2026-04-21 114254" src="https://github.com/user-attachments/assets/f17972c7-2508-4867-ad4c-a4cc3a525692" />
 
 
 
