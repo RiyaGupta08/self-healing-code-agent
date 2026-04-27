@@ -49,7 +49,7 @@ The backend is developed using FastAPI, a high-performance Python framework. Mac
 To run the project locally, start by cloning the repository:
 
 ```
-git clone https://github.com/your-username/self-healing-code-agent.git
+git clone https://github.com/RiyaGupta08/self-healing-code-agent.git
 cd self-healing-code-agent
 ```
 
